@@ -4,7 +4,7 @@
 
 ## Use pip to install the following packages
 ```console
-foo@bar:~$ pip install pyautogui pydirectinput win32gui watchdog
+foo@bar:~$ pip install pyautogui pydirectinput pywin32 watchdog
 ```
 
 ## Configuration:
